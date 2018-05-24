@@ -1,1 +1,1 @@
-Project to combine multiple apis. The google Maps Api and Geoquakes earthquake information. 
+Utilized AJAX to retrieve data about recent significant (M4.0 or greater) earthquake locations from the real-time earthquake.usgs.gov GeoJSON dataset, and displayed the data on a map using the Google Maps API.
